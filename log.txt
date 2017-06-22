@@ -1,5 +1,0 @@
---------------------------
-element: tv
-enclosingElement: com.solarexsoft.solarexbutterknifedemo.MainActivity
---------------------------
---------------------------
